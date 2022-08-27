@@ -5,39 +5,7 @@
     "username": "admin",
     "password": "admin",
     "role": "Administrador",
-    "icon": "https://png.pngtree.com/png-vector/20190301/ourlarge/pngtree-vector-administration-icon-png-image_747092.jpg",
-    "items": [
-            {
-                "itemid": "1",
-                "itemname": "Inicio",
-                "itemurlicono": "https://images.vexels.com/media/users/3/140528/isolated/preview/669972133494bf3994d706dedf165f90-icono-de-ronda-de-inicio-1.png"
-            },
-            {
-                "itemid": "2",
-                "itemname": "Camara",
-                "itemurlicono": "https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-vector-camera-icon-png-image_695437.jpg"
-            },
-            {
-                "itemid": "3",
-                "itemname": "Microfono",
-                "itemurlicono": "https://png.pngtree.com/png-vector/20190114/ourlarge/pngtree-vector-microphone-icon-png-image_313607.jpg"
-            },
-            {
-                "itemid": "4",
-                "itemname": "Materias",
-                "itemurlicono": "https://cdn-icons-png.flaticon.com/512/5526/5526535.png"
-            },
-            {
-                "itemid": "5",
-                "itemname": "Cursos",
-                "itemurlicono": "https://png.pngtree.com/png-vector/20190728/ourlarge/pngtree-training-course-online-computer-chat-flat-color-icon-vector-png-image_1619602.jpg"
-            },
-            {
-                "itemid": "6",
-                "itemname": "Salir",
-                "itemurlicono": "https://st2.depositphotos.com/1005920/6293/i/450/depositphotos_62939741-stock-photo-exit-icon.jpg"
-            }
-        ]
+    "icon": "https://png.pngtree.com/png-vector/20190301/ourlarge/pngtree-vector-administration-icon-png-image_747092.jpg"
   },
   {
     "id": 2,
