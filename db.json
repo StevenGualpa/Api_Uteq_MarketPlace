@@ -1,37 +1,56 @@
 {
   "Edificios":[
   {
-    "Id": 1,
-    "Titulo": "Facultad de Ciencias Pecuarias",
-    "Descripcion": "Facultad de Ciencias Pecuarias",
-    "UrlImagen": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-    "Facultad": "Facultad de Ciencias Pecuarias",
-    "Decano": "Proximamente",
-    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
-     "latitude": -1.0813302050407492,
-     "longitude": -79.50295004038847 
+    "id": 1,
+    "titulo": "Facultad de Ciencias de la Ingeniería",
+    "descripcion": "Facultad de Ciencias de la Ingeniería",
+    "urlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "faculta": "Facultad de Ciencias de la Ingeniería",
+    "decano": "Tommy Apolinario",
+    "ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "posicion": {
+      "latitude": -1.012642479405474,
+      "longitude": -79.47047741808278
+    }
   },
   {
-    "Id": 2,
-    "Titulo": "Laboratorio",
-    "Descripcion": "Laboratorio",
-    "UrlImagen": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-    "Facultad": "Laboratorio",
-    "Decano": "Proximamente",
-    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
-     "latitude": -1.0813302050407492,
-     "longitude": -79.50295004038847 
+    "id": 2,
+    "titulo": "Facultad de Ciencias Empresariales",
+    "descripcion": "Facultad de Ciencias Empresariales",
+    "urlImage": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+    "faculta": "Facultad de Ciencias Empresariales",
+    "decano": "Tommy Apolinario",
+    "ubicacion": "Quevedo - Ecuador",
+    "posicion": {
+      "latitude": -1.0120956070821068,
+      "longitude": -79.47004341478818
+    }
   },
   {
-    "Id": 3,
-    "Titulo": "Facultad de Ciencias Agrarias y Forestales",
-    "Descripcion": "Facultad de Ciencias Agrarias y Forestaless",
-    "UrlImagen": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-    "Facultad": "Facultad de Ciencias Agrarias y Forestales",
-    "Decano": "Proximamente",
-    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
-     "latitude": -1.0806432538053958,
-     "longitude": -79.50217583590478
+    "id": 3,
+    "titulo": "Facultad de Ciencias de la Industria y Producción",
+    "descripcion": "Facultad de Ciencias de la Industria y Producción",
+    "urlImage": "https://www.uteq.edu.ec/images/about/logo_fcip.jpg",
+    "faculta": "Facultad de Ciencias de la Industria y Producción",
+    "decano": "Tommy Apolinario",
+    "ubicacion": "Quevedo - Ecuador",
+    "posicion": {
+      "latitude": -1.0130240849390955,
+      "longitude": -79.46962553496557
+    }
+  },
+  {
+    "id": 4,
+    "titulo": "Facultad de Ciencias de la Salud",
+    "descripcion": "Facultad de Ciencias de la Salud",
+    "urlImage": "https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
+    "faculta": "Facultad de Ciencias de la Salud",
+    "decano": "Tommy Apolinario",
+    "ubicacion": "Quevedo - Ecuador",
+    "posicion": {
+      "latitude": -1.0129795348930224,
+      "longitude": -79.46899452415903
+    }
   }
 ]
 }
