@@ -1,26 +1,48 @@
 {
   "Edificios":[
   {
-    "id": 1,
-    "titulo": "Facultad de Ciencias de la Ingeniería",
-    "descripcion": "Facultad de Ciencias de la Ingeniería",
-    "urlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-    "faculta": "Facultad de Ciencias de la Ingeniería",
-    "decano": "Tommy Apolinario",
-    "ubicacion": "Quevedo-Los Ríos-Ecuador",
-    "latitude": -1.012642479405474,
-    "longitude": -79.47047741808278
+    "Id": 1,
+    "Titulo": "Facultad de Ciencias Pecuarias y Biológicas",
+    "Descripcion": "Facultad de Ciencias Pecuarias y Biológicas",
+    "UrlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "Facultad": "Facultad de Ciencias Pecuarias y Biológicas",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.0813412617564955,
+    "Longitude": -79.50295187364853
   },
-  {
-    "id": 2,
-    "titulo": "Facultad de Ciencias de la Ingeniería",
-    "descripcion": "Facultad de Ciencias de la Ingeniería",
-    "urlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-    "faculta": "Facultad de Ciencias de la Ingeniería",
-    "decano": "Tommy Apolinario",
-    "ubicacion": "Quevedo-Los Ríos-Ecuador",
-    "latitude": -1.012642479405474,
-    "longitude": -79.47047741808278
+   {
+    "Id": 2,
+    "Titulo": "Facultad de Ciencias Agrarias y Forestales",
+    "Descripcion": "Facultad de Ciencias Agrarias y Forestales",
+    "UrlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "Facultad": "Facultad de Ciencias Agrarias y Forestales",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.080391235794136,
+    "Longitude": -79.50190287838878 
+  },
+   {
+    "Id": 3,
+    "Titulo": "Facultad de Ciencias de la Industria y Producción",
+    "Descripcion": "Facultad de Ciencias de la Industria y Producción",
+    "UrlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "Facultad": "Facultad de Ciencias de la Industria y Producción",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.0806893607961792,
+    "Longitude": -79.50151880065606
+  },
+   {
+    "Id": 4,
+    "Titulo": "Facultad de Ciencias de la Ingeniería",
+    "Descripcion": "Facultad de Ciencias de la Ingeniería",
+    "UrlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "Facultad": "Facultad de Ciencias de la Ingeniería",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.0806287430923665,
+    "Longitude": -79.50133431908083
   }
 ]
 }
