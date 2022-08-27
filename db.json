@@ -26,7 +26,7 @@
     "Id": 3,
     "Titulo": "Facultad de Ciencias de la Industria y Producción",
     "Descripcion": "Facultad de Ciencias de la Industria y Producción",
-    "UrlImage": "https://www.uteq.edu.ec/images/page/4/l_fcip.jpg",
+    "UrlImage": "https://www.uteq.edu.ec/images/page/4/l_fcip.png",
     "Facultad": "Facultad de Ciencias de la Industria y Producción",
     "Decano": "Proximamente",
     "Ubicacion": "Quevedo-Los Ríos-Ecuador",
@@ -36,7 +36,7 @@
    {
     "Id": 4,
     "Titulo": "Facultad de Ciencias de la Ingeniería",
-    "Descripcion": "Facultad de Ciencias de la Ingeniería",
+    "Descripcion": "Incluye las carreras de: Ingeniería Ambiental, Electricidad, Mecánica, Software, Telemática, Hidrología, Arquitectura",
     "UrlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
     "Facultad": "Facultad de Ciencias de la Ingeniería",
     "Decano": "Proximamente",
