@@ -10,6 +10,17 @@
     "ubicacion": "Quevedo-Los Ríos-Ecuador",
     "latitude": -1.012642479405474,
     "longitude": -79.47047741808278
+  },
+  {
+    "id": 2,
+    "titulo": "Facultad de Ciencias de la Ingeniería",
+    "descripcion": "Facultad de Ciencias de la Ingeniería",
+    "urlImage": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "faculta": "Facultad de Ciencias de la Ingeniería",
+    "decano": "Tommy Apolinario",
+    "ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "latitude": -1.012642479405474,
+    "longitude": -79.47047741808278
   }
 ]
 }
