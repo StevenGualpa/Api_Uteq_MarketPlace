@@ -43,6 +43,39 @@
     "Ubicacion": "Quevedo-Los Ríos-Ecuador",
     "Latitude": -1.0806287430923665,
     "Longitude": -79.50133431908083
+  },
+   {
+    "Id": 5,
+    "Titulo": "Campus Maria Biblioteca",
+    "Descripcion": "Biblioteca del Campus de la Maria",
+    "UrlImage": "https://www.uteq.edu.ec/images/noticias/425/portada_425.jpeg",
+    "Facultad": "Biblioteca",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.080129828238300,
+    "Longitude": -79.50151553347771
+  },
+   {
+    "Id": 6,
+    "Titulo": "Campus Maria Enfermeria",
+    "Descripcion": "Enfermeria del Campus de la Maria",
+    "UrlImage": "https://static.vecteezy.com/system/resources/previews/002/957/507/non_2x/infirmary-hospital-building-vector.jpg",
+    "Facultad": "Enfermeria",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.0803429798677056,
+    "Longitude": -79.50175873515047
+  },
+   {
+    "Id": 7,
+    "Titulo": "Campus Maria Laboratorio",
+    "Descripcion": "Laboratorio del Campus de la Maria",
+    "UrlImage": "https://img2.freepng.es/20180408/yte/kisspng-building-laboratory-clip-art-building-5ac9be35f078d3.839908911523170869985.jpg",
+    "Facultad": "Laboratorio",
+    "Decano": "Proximamente",
+    "Ubicacion": "Quevedo-Los Ríos-Ecuador",
+    "Latitude": -1.0806427033914061,
+    "Longitude": -79.502333263073
   }
 ]
 }
